@@ -91,7 +91,7 @@ canvas {
     left: 0;
 }
 
-@media (max-width=768px){
+@media (max-width:768px){
     .container{
         width: 90%;
     }
